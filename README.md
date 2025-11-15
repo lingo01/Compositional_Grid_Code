@@ -1,7 +1,7 @@
 # Compositional_Grid_Code
 Data and code of the article "Compositional Grid Codes with Guarantee on Both Stability and Dynamic Performance"
 
-This source code repository accompanies the following paper:
+This source code repository accompanies the following paper (open-sourced upon acceptance):
 
 > X. Peng, C. Fu, Z. Li, X. Ru, Z. Wang and F. Liu, "Compositional Grid Codes with Guarantee on Both Stability and Dynamic Performance," 2025.
 
