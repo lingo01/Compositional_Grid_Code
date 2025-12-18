@@ -6,6 +6,8 @@
 
  year = {2025},
 
+ journal = {IEEE Transactions on Power Systems},
+
  langid = {english}
 
 }
