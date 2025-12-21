@@ -19,7 +19,7 @@ For any questions or uses of the source codes, please feel free to contact the f
 
 All code is written in `MATLAB` and can be run directly in `MATLAB 2018a` or later versions.
 
-The simulations are conducted on a modified IEEE 118-bus system with heterogeneous inverter-interface devices. The codes can be also employed to verify the results on other benchmark systems as introduced below.
+The simulations are conducted on a modified IEEE 118-bus system with inverter-interface devices. The codes can also be employed to verify the results on other benchmark systems, as introduced later. For clarity, this letter adopts a linearized dynamic model to verify the theoretical results.
 
 The simulations are shown in Fig.3 in the paper. Next, we explain how to generate all the data and figures of this paper in detail.
 
