@@ -2,7 +2,7 @@
 
 Data and source code for the study:
 
-> X. Peng, C. Fu, Z. Li, X. Ru, Z. Wang, and F. Liu, "Compositional Grid Codes with Guarantee on Both Stability and Dynamic Performance," 2025.
+> X. Peng, C. Fu, Z. Li, X. Ru, Z. Wang, and F. Liu, "Compositional Grid Codes with Guarantee on Both Stability and Dynamic Performance," IEEE Transactions on Power Systems, 2026.
 
 The original public repository is available at:
 https://github.com/lingo01/Compositional_Grid_Code
